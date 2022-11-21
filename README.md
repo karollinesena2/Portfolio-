@@ -1,13 +1,8 @@
-# Portfolio-
-Portfolio de uma Dev.
 
-## Tarefas 
+# Portfolio de um DEV.
 
-O controle das tarefas desse projeto será realizado no GitHub
+- Projeto simples utilizando HTML5, CSS3, e JAVASCIRPT
 
-## Ícones 
+# Ferramentas
 
-:package: nova funcionalidade
-:up: atualização
-- correção de bug
-:checkered_flag: release 
+- Visual Studio Code
